@@ -1,6 +1,6 @@
 # 🏥 Sistem Manajemen Praktek Dokter (Klinik App)
 
-Sebuah aplikasi web berbasis **MERN Stack (MongoDB, Express, React, Node.js)** yang dirancang untuk mendigitalkan operasional harian praktek dokter mandiri atau klinik kecil. Aplikasi ini memfasilitasi manajemen pasien, antrian kunjungan, rekam medis elektronik (E-MR), dan manajemen staf dengan pembagian hak akses (Role-Based Access Control).
+Sebuah aplikasi web berbasis **MERN Stack (MongoDB, Express, React, Node.js)** yang dirancang untuk mendigitalkan operasional harian praktek dokter mandiri atau klinik kecil. Aplikasi ini memfasilitasi manajemen pasien, antrian kunjunga, dan manajemen staf dengan pembagian hak akses (Role-Based Access Control).
 
 ## 🚀 Fitur Utama
 
