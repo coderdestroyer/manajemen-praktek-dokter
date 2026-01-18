@@ -15,7 +15,7 @@ const MainLayout = () => {
       {/* Sidebar (Fixed Position) */}
       <Sidebar />
 
-      <div className="flex-1 flex flex-col ml-64 transition-all duration-300">
+      <div className="flex-1 flex flex-col w-full md:ml-64 transition-all duration-300">
         
         {/* Navbar */}
         <Navbar />
